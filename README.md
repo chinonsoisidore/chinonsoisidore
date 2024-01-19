@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinonsoisidore
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning the basics of javascript
+- 🌱 I’m currently learning the basics of javascript and React
 - 💞️ I’m looking to collaborate on any web projects that can help me improve my skills
 - 📫 How to reach me chinonsoisidore@gmail.com
 - 😄 Pronouns: he/him
